@@ -52,10 +52,12 @@ Skilled in Kubernetes, data modeling, ETL pipelines, and software development ac
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
-### Clouds
+### Clouds / IaC
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-gray?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### CI/CD
 
@@ -68,8 +70,7 @@ Skilled in Kubernetes, data modeling, ETL pipelines, and software development ac
 
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
+
 ### Contact
 
-Twitter: [@QuestLamp](https://twitter.com/questlamp)
-
-LinkedIn: [Dennis Akpenyi](https://www.linkedin.com/in/dr-dennis-akpenyi/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dr-dennis-akpenyi/)
