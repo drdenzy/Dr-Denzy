@@ -1,15 +1,14 @@
 # Dr Dennis Akpenyi
 
-Builder and Commander of Data Pipelines, Open-Source Contributor, Digital Health Expert, Teacher of Minds, Perpetual
-Student, Data nerd.
+🔧 Builder and Commander of Data Pipelines | 🌐 Open-Source Contributor | 🩺 Digital Health Expert | 📚 Teacher of Minds | 🎓 Perpetual Student | 📊 Data Nerd
 
-Current: Open to work and Currently seeking opportunities to assist companies in creating, managing, and monitoring
-their business-critical data pipelines.
+Currently: Open to work and seeking opportunities to assist companies in creating, managing, and monitoring their business-critical data pipelines.
 
 ## About Me
 
-I am a Data Engineer / Software Engineer with a proven track record of designing and implementing scalable data systems.
-Skilled in Kubernetes, data modeling, ETL pipelines, and software development across multiple programming languages.
+I am a Data Engineer / Software Engineer with a proven track record of designing and implementing scalable data systems. 
+Proficient in Kubernetes, data modeling, ETL pipelines, and software development across multiple programming languages. 
+Passionate about leveraging technology to drive meaningful insights and innovations in the digital landscape. 
 
 ## Expertise
 
