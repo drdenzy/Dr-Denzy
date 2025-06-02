@@ -1,23 +1,25 @@
 # Dr Dennis Akpenyi
 
-Rust / Go / Python Software Engineer | 🔧 Builder and Commander of Data Pipelines | 🌐 Open-Source Contributor | 🩺 Digital Health Expert | 📚 Teacher of Minds | 🎓 Perpetual Student | 📊 Data Nerd
+C++ / Go / Python / Elixir / Rust Software Engineer | 🔧 Builder and Commander of Data Pipelines | 🌐 Open-Source Contributor | 🩺 Digital Health Expert | 📚 Teacher of Minds | 🎓 Perpetual Student | 📊 Data Nerd
 
 Currently: Open to work and seeking opportunities to assist companies in creating, managing, and monitoring their business-critical data pipelines.
 
 ## About Me
 
-I am a Software Engineer | Data Engineer with a proven track record of designing and implementing scalable data systems. 
-Proficient in Kubernetes, data modeling, ETL pipelines, and software development across multiple programming languages. 
-Passionate about leveraging technology to drive meaningful insights and innovations in the digital landscape. 
+Software Engineerwith 6+ years of experience designing scalable, data-intensive systems using Go, C++, Elixir, Rust, SQL, and Python. 
+Proven success architecting microservices and distributed systems that process real-time data at scale (1TB+/day). 
+Experienced in data pipeline optimization, Kubernetes-based deployments, and building backend infrastructure for LLM-powered AI platforms.
+Adept at translating complex data requirements into performant APIs and systems that drive measurable business value. 
+Recognized for clear communication and innovative problem-solving in fast-paced, collaborative environments.
 
 ## Expertise
 
 ### Programming Languages & Markdowns
-![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
@@ -28,7 +30,6 @@ Passionate about leveraging technology to drive meaningful insights and innovati
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000.svg?style=for-the-badge&logo=DuckDB&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF.svg?style=for-the-badge&logo=Amazon-Redshift&logoColor=white)
