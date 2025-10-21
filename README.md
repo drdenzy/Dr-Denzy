@@ -1,7 +1,5 @@
 # Dennis Akpenyi
 
-Modern C++ / Go / Python Software Engineer | 🌐 Open-Source Contributor | 🩺 Digital Health Expert | 📚 Teacher of Minds | 🎓 Perpetual Student | 📊 Data Nerd
-
 ## About Me
 
 I am a Software Engineer with 7+ years of experience designing and developing high-performance, scalable, and data-intensive applications across distributed and cloud environments. I specialize in modern C++ (C++17/20|23) development, object-oriented design, and multithreaded systems optimized for low latency, high throughput, and reliability.
