@@ -1,16 +1,14 @@
-# Dr Dennis Akpenyi
+# Dennis Akpenyi
 
-C++ / Go / Python / Elixir / Rust Software Engineer | 🔧 Builder and Commander of Data Pipelines | 🌐 Open-Source Contributor | 🩺 Digital Health Expert | 📚 Teacher of Minds | 🎓 Perpetual Student | 📊 Data Nerd
-
-Currently: Open to work and seeking opportunities to assist companies in creating, managing, and monitoring their business-critical data pipelines.
+Modern C++ / Go / Python Software Engineer | 🌐 Open-Source Contributor | 🩺 Digital Health Expert | 📚 Teacher of Minds | 🎓 Perpetual Student | 📊 Data Nerd
 
 ## About Me
 
-Software Engineerwith 6+ years of experience designing scalable, data-intensive systems using Go, C++, Elixir, Rust, SQL, and Python. 
-Proven success architecting microservices and distributed systems that process real-time data at scale (1TB+/day). 
-Experienced in data pipeline optimization, Kubernetes-based deployments, and building backend infrastructure for LLM-powered AI platforms.
-Adept at translating complex data requirements into performant APIs and systems that drive measurable business value. 
-Recognized for clear communication and innovative problem-solving in fast-paced, collaborative environments.
+I am a Software Engineer with 7+ years of experience designing and developing high-performance, scalable, and data-intensive applications across distributed and cloud environments. I specialize in modern C++ (C++17/20|23) development, object-oriented design, and multithreaded systems optimized for low latency, high throughput, and reliability.
+
+My experience spans backend systems engineering, data pipeline architecture, and cloud-native deployments using Kubernetes, Docker, and CI/CD automation. I’ve built and optimized ETL pipelines, implemented real-time data processing, and improved system efficiency through algorithmic optimization and effective memory management.
+
+I’m passionate about modern software architecture, performance tuning, and cross-functional collaboration to deliver clean, maintainable, and production-grade code. I thrive in environments that combine C++ / Python / Rust / Go engineering, data-driven problem solving, and scalable infrastructure — helping teams turn complex technical challenges into elegant, high-impact solutions.
 
 ## Expertise
 
@@ -20,9 +18,30 @@ Recognized for clear communication and innovative problem-solving in fast-paced,
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+
+
+### Testing
+
+![Google Test](https://img.shields.io/badge/Google%20Test%20-20B2AA?style=for-the-badge)
+![Catch2](https://img.shields.io/badge/Catch2%20-20B2AA?style=for-the-badge)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+### Build Systems
+
+![CMake](https://img.shields.io/badge/cMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Ninja](https://img.shields.io/badge/Ninja%20-064F8C?style=for-the-badge)
+
+### CI/CD
+
+![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
 
 ### Databases
 
@@ -34,6 +53,14 @@ Recognized for clear communication and innovative problem-solving in fast-paced,
 ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF.svg?style=for-the-badge&logo=Amazon-Redshift&logoColor=white)
 
+### ORMs, Web Servers, and Frameworks
+
+![Nginx](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF.svg?style=for-the-badge&logo=Gin&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![SQL Alchemy](https://badgen.net/badge/SQLAlchemy/SQLALCHEMY?label=&color=black&labelColor=black&icon=https://user-images.githubusercontent.com/128223/153606192-c117618d-cabf-49c4-9204-d7f1afe24289.svg) <!--- TODO: Add shields.io SQLAlchemy badge -->
+
 
 ### ML/DL
 
@@ -44,13 +71,7 @@ Recognized for clear communication and innovative problem-solving in fast-paced,
 ![Scikit-Learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
-### ORMs, Web Servers, and Frameworks
 
-![Nginx](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-008ECF.svg?style=for-the-badge&logo=Gin&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![SQL Alchemy](https://badgen.net/badge/SQLAlchemy/SQLALCHEMY?label=&color=black&labelColor=black&icon=https://user-images.githubusercontent.com/128223/153606192-c117618d-cabf-49c4-9204-d7f1afe24289.svg) <!--- TODO: Add shields.io SQLAlchemy badge -->
 
 ### OS and Cloud Native Platforms
 
@@ -78,22 +99,13 @@ Recognized for clear communication and innovative problem-solving in fast-paced,
 ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-### CI/CD
-
-![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
 
 ### Virtualization
 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2.svg?style=for-the-badge&logo=Vagrant&logoColor=white)
 
-### Testing
 
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 
 ### Contact
