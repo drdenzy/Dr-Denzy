@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Software Engineer with 7+ years of experience designing and developing high-performance, scalable, and data-intensive applications across distributed and cloud environments. I specialize in modern C++ (C++17/20|23) development, object-oriented design, and multithreaded systems optimized for low latency, high throughput, and reliability.
+I am a Software Engineer with 7+ years of experience designing and developing high-performance, scalable, and data-intensive applications across distributed and cloud environments. I specialize in Rust, Go, and modern C++ (C++17/20|23) development, object-oriented design, and multithreaded systems optimized for low latency, high throughput, and reliability.
 
 My experience spans backend systems engineering, data pipeline architecture, and cloud-native deployments using Kubernetes, Docker, and CI/CD automation. I’ve built and optimized ETL pipelines, implemented real-time data processing, and improved system efficiency through algorithmic optimization and effective memory management.
 
@@ -11,11 +11,11 @@ I’m passionate about modern software architecture, performance tuning, and cro
 ## Expertise
 
 ### Programming Languages & Markdowns
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
